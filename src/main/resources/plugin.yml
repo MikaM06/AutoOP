@@ -1,0 +1,4 @@
+name: AutoOP
+version: 1.0.0
+description: Permet d'auto-op les joueurs qui rejoignent le serveur.
+main: fr.mikam06.autop.AutoOP
