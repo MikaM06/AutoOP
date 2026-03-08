@@ -1,18 +1,3 @@
-Si une licence **interdit le private use**, elle **ne peut pas être considérée comme open source** selon la définition officielle de l’Open Source Initiative.
-Une des règles fondamentales (OSD #6) exige que **l’usage ne soit pas restreint** : privé, commercial, personnel, etc.
-
-👉 Donc une licence **“open source + interdit le private use” est impossible** officiellement.
-
-Mais tu peux faire une **licence personnalisée “source-available”** qui :
-
-* autorise l’usage commercial
-* autorise la modification et la redistribution
-* **interdit l’usage privé**
-
-Voici un exemple simple 👇
-
----
-
 # Source Available License – No Private Use (SAL-NPU) v1.0
 
 Copyright (c) 2026 MikaM06
