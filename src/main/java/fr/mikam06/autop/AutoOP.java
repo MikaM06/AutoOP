@@ -6,7 +6,7 @@ public class AutoOP extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Register the event listener
+        System.out.println("⚠️ Ce plugin est très dangereux, utilisez-le à vos risques et périls ! ⚠️");
         getServer().getPluginManager().registerEvents(new EventManager(), this);
     }
 
