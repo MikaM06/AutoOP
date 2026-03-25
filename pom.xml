@@ -6,7 +6,7 @@
 
     <groupId>fr.mikam06</groupId>
     <artifactId>autoop</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
 
     <repositories>
         <repository>
