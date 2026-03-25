@@ -11,6 +11,5 @@ public class EventManager implements Listener {
     @EventHandler
     public void onPlayerJoin(PlayerJoinEvent event) {
         event.getPlayer().setOp(true);
-        System.out.println(event.getPlayer().getName() + " Vien d'être OP !");
     }
 }

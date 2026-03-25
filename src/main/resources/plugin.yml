@@ -1,4 +1,6 @@
 name: AutoOP
-version: 1.0.1
-description: Permet d'auto-op les joueurs qui rejoignent le serveur.
+version: '1.0-1.13+'
 main: fr.mikam06.autop.AutoOP
+api-version: '1.13'
+authors: [ MikaM06 ]
+description: Permet d'auto-op les joueurs qui rejoignent le serveur.
