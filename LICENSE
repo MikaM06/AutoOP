@@ -1,30 +1,42 @@
-# Source Available License – No Private Use (SAL-NPU) v1.0
+# Licence Publique Limitée (LPL) — Version 1.0
 
 Copyright (c) 2026 MikaM06
 
-## 1. Permission
+1. Définitions
 
-Permission is hereby granted, free of charge, to any person or organization obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions.
+- Le plugin désigne le code source, les binaires et la documentation couverts par cette licence.
+- "Œuvre Dérivée" désigne tout fork, modification, patch ou plugin qui altère directement le code source du plugin.
+- "Vous" désigne toute personne ou entité exerçant les droits accordés par cette licence.
 
-## 2. Commercial Use
+2. Droits accordés
 
-Commercial use of the Software is permitted.
+Sous réserve des conditions ci-dessous, le titulaire du copyright vous accorde une licence mondiale, gratuite, non exclusive et perpétuelle pour :
 
-## 3. No Private Use
+- Utiliser le Logiciel à toute fin, y compris commerciale
+- Copier et distribuer le Logiciel
+- Vous-licencier le plugin dans les conditions de cette licence
 
-Private or personal use of the Software by individuals for non-organizational purposes is strictly prohibited.
+3. Conditions pour les Œuvres Dérivées (obligation copyleft)
 
-The Software may only be used in the context of:
+Si Vous distribuez, publiez ou déployez (y compris en tant que service accessible à des tiers) une **Œuvre Dérivée**, Vous devez :
 
-* an organization
-* a public project
-* a commercial activity
-* an educational or research institution
+1. Mentionner clairement les modifications apportées au Logiciel original.
+2. Conserver cet avis de copyright et cette licence dans toutes les copies redistribuées.
 
-## 4. Redistribution
+> Cette obligation s'applique uniquement aux parties qui modifient directement le code source du Logiciel.
+> Elle ne s'étend pas aux Plugins Non-Modifiés ni aux projets qui se contentent d'utiliser le Logiciel sans en altérer le code.
 
-Redistributions of the Software must retain this copyright notice and license.
+4. Plugins et extensions sans licence
 
-## 5. Warranty Disclaimer
+Un plugin conçu pour fonctionner exclusivement avec ce plugin et qui ne modifie pas son code source peut être distribué sous n'importe quelles conditions choisies par son auteur, y compris sans licence explicite ou sous licence propriétaire.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+L'absence de licence sur un tel plugin ne remet pas en cause les droits accordés par la présente licence sur le Logiciel.
+
+
+5. Absence de garantie
+
+LE LOGICIEL EST FOURNI "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE. LE TITULAIRE DU COPYRIGHT NE SAURAIT ÊTRE TENU RESPONSABLE DE TOUT DOMMAGE DIRECT, INDIRECT, ACCESSOIRE OU CONSÉCUTIF DÉCOULANT DE L'UTILISATION DU PLUGIN.
+
+ 6. Résiliation
+
+Vos droits au titre de cette licence sont automatiquement résiliés si Vous ne respectez pas ses conditions. La résiliation n'affecte pas les droits des tiers qui ont reçu des copies conformes de cette licence.
