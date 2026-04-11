@@ -1,42 +1,39 @@
-# Licence Publique Limitée (LPL) — Version 1.0
-
 Copyright (c) 2026 MikaM06
 
-1. Définitions
+1. Definitions
 
-- Le plugin désigne le code source, les binaires et la documentation couverts par cette licence.
-- "Œuvre Dérivée" désigne tout fork, modification, patch ou plugin qui altère directement le code source du plugin.
-- "Vous" désigne toute personne ou entité exerçant les droits accordés par cette licence.
+* The Plugin refers to the source code, binaries, and documentation covered by this license.
+* "Derivative Work" refers to any fork, modification, patch, or plugin that directly alters the plugin’s source code.
+* "You" refers to any individual or entity exercising the rights granted by this license.
 
-2. Droits accordés
+2. Granted Rights
 
-Sous réserve des conditions ci-dessous, le titulaire du copyright vous accorde une licence mondiale, gratuite, non exclusive et perpétuelle pour :
+Subject to the conditions below, the copyright holder grants you a worldwide, royalty-free, non-exclusive, and perpetual license to:
 
-- Utiliser le Logiciel à toute fin, y compris commerciale
-- Copier et distribuer le Logiciel
-- Vous-licencier le plugin dans les conditions de cette licence
+* Use the Software for any purpose, including commercial use
+* Copy and distribute the Software
+* Sub-license the plugin under the terms of this license
 
-3. Conditions pour les Œuvres Dérivées (obligation copyleft)
+3. Conditions for Derivative Works (copyleft obligation)
 
-Si Vous distribuez, publiez ou déployez (y compris en tant que service accessible à des tiers) une **Œuvre Dérivée**, Vous devez :
+If You distribute, publish, or deploy (including as a service accessible to third parties) a **Derivative Work**, You must:
 
-1. Mentionner clairement les modifications apportées au Logiciel original.
-2. Conserver cet avis de copyright et cette licence dans toutes les copies redistribuées.
+1. Clearly indicate the modifications made to the original Software.
+2. Retain this copyright notice and this license in all redistributed copies.
 
-> Cette obligation s'applique uniquement aux parties qui modifient directement le code source du Logiciel.
-> Elle ne s'étend pas aux Plugins Non-Modifiés ni aux projets qui se contentent d'utiliser le Logiciel sans en altérer le code.
+> This obligation applies only to parts that directly modify the Software’s source code.
+> It does not extend to Unmodified Plugins or to projects that merely use the Software without altering its code.
 
-4. Plugins et extensions sans licence
+4. Plugins and Extensions Without License
 
-Un plugin conçu pour fonctionner exclusivement avec ce plugin et qui ne modifie pas son code source peut être distribué sous n'importe quelles conditions choisies par son auteur, y compris sans licence explicite ou sous licence propriétaire.
+A plugin designed to work exclusively with this plugin and that does not modify its source code may be distributed under any terms chosen by its author, including without an explicit license or under a proprietary license.
 
-L'absence de licence sur un tel plugin ne remet pas en cause les droits accordés par la présente licence sur le Logiciel.
+The absence of a license for such a plugin does not affect the rights granted by this license on the Software.
 
+5. Disclaimer of Warranty
 
-5. Absence de garantie
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE COPYRIGHT HOLDER SHALL NOT BE HELD LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OF THE PLUGIN.
 
-LE LOGICIEL EST FOURNI "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE. LE TITULAIRE DU COPYRIGHT NE SAURAIT ÊTRE TENU RESPONSABLE DE TOUT DOMMAGE DIRECT, INDIRECT, ACCESSOIRE OU CONSÉCUTIF DÉCOULANT DE L'UTILISATION DU PLUGIN.
+6. Termination
 
- 6. Résiliation
-
-Vos droits au titre de cette licence sont automatiquement résiliés si Vous ne respectez pas ses conditions. La résiliation n'affecte pas les droits des tiers qui ont reçu des copies conformes de cette licence.
+Your rights under this license are automatically terminated if You fail to comply with its terms. Termination does not affect the rights of third parties who have received copies under this license.
